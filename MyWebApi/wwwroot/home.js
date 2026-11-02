@@ -1,5 +1,5 @@
 ﻿
-async function getResponse() {
+async function getResponse() { 
     try {
         const postData = {
             firstname: document.querySelector(".firstname").value,
@@ -18,7 +18,9 @@ async function getResponse() {
         if (!responsePost.ok) { throw new Error(`HTTP error! status:' ${responsePost.status()}`) }
         const res = await responsePost.json();
         console.log('post data:', res);
-        sessionStorage.setItem('CurrentUser', JSON.stringify(res))
+        sessionStorage.setItem('CurrentUser', JSON.stringify(res));
+        goodpassword=document.querySelector(".goodPassword");
+        goodpassword.display="block";
     }
     catch (e) {
         alert(e.message)
@@ -50,4 +52,21 @@ async function getResposeLogin() {
     catch (e) {
         alert(e.message)
     }
+}
+async function CheckPassword() {
+    pass = document.querySelector(".password").value;
+    const responsePost = await fetch('API/passwords', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(pass)
+
+    });
+    if (!responsePost.ok) { throw new Error(`HTTP error! `) }
+    const res = await responsePost.json();
+    console.log(res)
+    goodpassword = document.getElementById("goodPassword");
+    goodpassword.value =res;
+
 }

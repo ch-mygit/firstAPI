@@ -11,4 +11,8 @@
     <Compile Remove="Controllers\User.cs" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="zxcvbn-core" Version="8.0.0-beta0002" />
+  </ItemGroup>
+
 </Project>

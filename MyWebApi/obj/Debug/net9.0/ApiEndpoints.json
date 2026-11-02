@@ -119,5 +119,31 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "MyWebApi.Controllers.UsersController",
+    "Method": "PostLogin",
+    "RelativePath": "api/Users/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginUser",
+        "Type": "MyWebApi.LoginUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MyWebApi.User",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

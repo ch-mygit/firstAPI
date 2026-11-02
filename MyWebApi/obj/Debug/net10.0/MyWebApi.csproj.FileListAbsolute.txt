@@ -122,7 +122,11 @@ F:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.genruntimeconfig.cache
 F:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\ref\MyWebApi.dll
 F:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\compressed\makr6zempj-{0}-k9xncf3exd-k9xncf3exd.gz
 F:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\compressed\os6x9swu2h-{0}-d7ktrrnvw8-d7ktrrnvw8.gz
-E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\compressed\makr6zempj-{0}-s88ke9g5f1-s88ke9g5f1.gz
 E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\compressed\rtj83laxlg-{0}-v5ygdds9n9-v5ygdds9n9.gz
-E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\compressed\g8z7ygyxqy-{0}-h7eyv6wyi5-h7eyv6wyi5.gz
-E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\compressed\os6x9swu2h-{0}-x5xgr6epbz-x5xgr6epbz.gz
+E:\יד\API\MyWebApi\MyWebApi\bin\Debug\net10.0\zxcvbn-core.dll
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.csproj.AssemblyReference.cache
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.sourcelink.json
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\compressed\g8z7ygyxqy-{0}-2evipvh2nd-2evipvh2nd.gz
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.csproj.Up2Date
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\compressed\makr6zempj-{0}-5trrsf6q6u-5trrsf6q6u.gz
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\compressed\os6x9swu2h-{0}-qw639la46q-qw639la46q.gz

@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\\u05D9\u05D3\\API\\MyWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|d:\\\u05D9\u05D3\\api\\mywebapi\\mywebapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|d:\\\u05D9\u05D3\\api\\mywebapi\\mywebapi\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|d:\\\u05D9\u05D3\\api\\mywebapi\\mywebapi\\wwwroot\\home.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\home.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|d:\\\u05D9\u05D3\\api\\mywebapi\\mywebapi\\mywebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\mywebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|d:\\\u05D9\u05D3\\api\\mywebapi\\mywebapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,15 +43,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "home.html",
+              "DocumentMoniker": "D:\\\u05D9\u05D3\\API\\MyWebApi\\MyWebApi\\wwwroot\\home.html",
+              "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\home.html",
+              "ToolTip": "D:\\\u05D9\u05D3\\API\\MyWebApi\\MyWebApi\\wwwroot\\home.html",
+              "RelativeToolTip": "MyWebApi\\wwwroot\\home.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-26T16:00:32.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyWebApi.csproj",
+              "DocumentMoniker": "D:\\\u05D9\u05D3\\API\\MyWebApi\\MyWebApi\\MyWebApi.csproj",
+              "RelativeDocumentMoniker": "MyWebApi\\MyWebApi.csproj",
+              "ToolTip": "D:\\\u05D9\u05D3\\API\\MyWebApi\\MyWebApi\\MyWebApi.csproj",
+              "RelativeToolTip": "MyWebApi\\MyWebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-26T15:57:42.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UsersController.cs",
               "DocumentMoniker": "D:\\\u05D9\u05D3\\API\\MyWebApi\\MyWebApi\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "MyWebApi\\Controllers\\UsersController.cs",
               "ToolTip": "D:\\\u05D9\u05D3\\API\\MyWebApi\\MyWebApi\\Controllers\\UsersController.cs",
               "RelativeToolTip": "MyWebApi\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T21:20:29.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-21T21:20:29.231Z"
             },
             {
               "$type": "Document",
@@ -53,10 +85,9 @@
               "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\home.js",
               "ToolTip": "D:\\\u05D9\u05D3\\API\\MyWebApi\\MyWebApi\\wwwroot\\home.js",
               "RelativeToolTip": "MyWebApi\\wwwroot\\home.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-10-21T21:19:08.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-21T21:19:08.945Z"
             }
           ]
         }

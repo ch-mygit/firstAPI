@@ -7,8 +7,19 @@
   "targets": {
     ".NETCoreApp,Version=v9.0": {
       "MyWebApi/1.0.0": {
+        "dependencies": {
+          "zxcvbn-core": "8.0.0-beta0002"
+        },
         "runtime": {
           "MyWebApi.dll": {}
+        }
+      },
+      "zxcvbn-core/8.0.0-beta0002": {
+        "runtime": {
+          "lib/netstandard2.0/zxcvbn-core.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.0.0"
+          }
         }
       }
     }
@@ -18,6 +29,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "zxcvbn-core/8.0.0-beta0002": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3l1tIg+glhOo02hjxjyk1SMEvbrKV4K2znGMePAg05HEEEhxS8nWBxSMUz/o69+FpjsgL0G70IWgO1gKPjdQfg==",
+      "path": "zxcvbn-core/8.0.0-beta0002",
+      "hashPath": "zxcvbn-core.8.0.0-beta0002.nupkg.sha512"
     }
   }
 }

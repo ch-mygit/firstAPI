@@ -21,6 +21,9 @@
             display: flex;
             gap: 10px;
         }
+        .goodPassword{
+            display: none;
+        }
     </style>
 </head>
 
@@ -30,7 +33,10 @@
         <input class="lastname" type="text" placeholder="הכנס שם משפחה" />
         <input class="password" type="password" placeholder="הכנס סיסמא" />
         <input class="email" type="email" placeholder="הכנס מייל" />
+
         <button class="sendreg" onclick="getResponse()">לחץ להרשמה</button>
+        <progress id="goodPassword" value="0" max="4"></progress>
+        <button onclick=" CheckPassword()">לבדיקת חוזק סיסמא</button>
     </div>
     <div class="login">
         <input class="password2" type="password" placeholder="הכנס סיסמא" />
@@ -38,5 +44,6 @@
         <button class="sendlog" onclick="getResposeLogin()">לחץ לכניסה</button>
     </div>
     <a href="UpdateDetails.html">עדכון פרטי משתמש</a>
+    
 </body>
 </html>

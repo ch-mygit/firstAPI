@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\MyWebApi\\bin"
+    "\\MyWebApi",
+    "\\MyWebApi\\wwwroot"
   ],
-  "SelectedNode": "\\MyWebApi.slnx",
+  "SelectedNode": "\\MyWebApi\\wwwroot\\home.js",
   "PreviewInSolutionExplorer": false
 }
