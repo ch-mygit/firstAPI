@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Mo0ZPSOphwU=",
+  "dgSpecHash": "MC0d/+QwUsM=",
   "success": true,
-  "projectFilePath": "D:\\יד\\API\\MyWebApi\\MyWebApi\\MyWebApi.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\יד\\API\\MyWebApi\\MyWebApi\\MyWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\9143\\.nuget\\packages\\zxcvbn-core\\8.0.0-beta0002\\zxcvbn-core.8.0.0-beta0002.nupkg.sha512"
+  ],
   "logs": []
 }

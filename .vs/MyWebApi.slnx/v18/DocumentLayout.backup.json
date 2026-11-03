@@ -3,20 +3,56 @@
   "WorkspaceRootPath": "E:\\\u05D9\u05D3\\API\\MyWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|e:\\\u05D9\u05D3\\api\\mywebapi\\mywebapi\\wwwroot\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|e:\\\u05D9\u05D3\\api\\mywebapi\\mywebapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|e:\\\u05D9\u05D3\\api\\mywebapi\\mywebapi\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6101FBC7-0677-4DCF-A37A-7B3276196BA1}|Models\\Models.csproj|e:\\\u05D9\u05D3\\api\\mywebapi\\models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6101FBC7-0677-4DCF-A37A-7B3276196BA1}|Models\\Models.csproj|solutionrelative:models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|e:\\\u05D9\u05D3\\api\\mywebapi\\mywebapi\\mywebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\mywebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|e:\\\u05D9\u05D3\\api\\mywebapi\\mywebapi\\controllers\\passwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\controllers\\passwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BA464E15-4D3F-4C8B-8820-F5759E6137DB}|Servieces\\Servieces.csproj|e:\\\u05D9\u05D3\\api\\mywebapi\\servieces\\serviecepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA464E15-4D3F-4C8B-8820-F5759E6137DB}|Servieces\\Servieces.csproj|solutionrelative:servieces\\serviecepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA464E15-4D3F-4C8B-8820-F5759E6137DB}|Servieces\\Servieces.csproj|e:\\\u05D9\u05D3\\api\\mywebapi\\servieces\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA464E15-4D3F-4C8B-8820-F5759E6137DB}|Servieces\\Servieces.csproj|solutionrelative:servieces\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA464E15-4D3F-4C8B-8820-F5759E6137DB}|Servieces\\Servieces.csproj|e:\\\u05D9\u05D3\\api\\mywebapi\\servieces\\servieces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA464E15-4D3F-4C8B-8820-F5759E6137DB}|Servieces\\Servieces.csproj|solutionrelative:servieces\\servieces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|e:\\\u05D9\u05D3\\api\\mywebapi\\mywebapi\\wwwroot\\updatedetails.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\updatedetails.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|e:\\\u05D9\u05D3\\api\\mywebapi\\mywebapi\\wwwroot\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|e:\\\u05D9\u05D3\\api\\mywebapi\\mywebapi\\wwwroot\\update.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\update.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|e:\\\u05D9\u05D3\\api\\mywebapi\\mywebapi\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5DD4506-E86D-2466-F17E-FD9C5F8606B0}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664531F6-69DF-45B1-8E8C-9AF57123ED5C}|Repositorys\\Repositorys.csproj|e:\\\u05D9\u05D3\\api\\mywebapi\\repositorys\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664531F6-69DF-45B1-8E8C-9AF57123ED5C}|Repositorys\\Repositorys.csproj|solutionrelative:repositorys\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6101FBC7-0677-4DCF-A37A-7B3276196BA1}|Models\\Models.csproj|e:\\\u05D9\u05D3\\api\\mywebapi\\models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6101FBC7-0677-4DCF-A37A-7B3276196BA1}|Models\\Models.csproj|solutionrelative:models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,50 +62,167 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiecePassword.cs",
+              "DocumentMoniker": "E:\\\u05D9\u05D3\\API\\MyWebApi\\Servieces\\ServiecePassword.cs",
+              "RelativeDocumentMoniker": "Servieces\\ServiecePassword.cs",
+              "ToolTip": "E:\\\u05D9\u05D3\\API\\MyWebApi\\Servieces\\ServiecePassword.cs",
+              "RelativeToolTip": "Servieces\\ServiecePassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T15:54:52.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Update.js",
+              "DocumentMoniker": "E:\\\u05D9\u05D3\\API\\MyWebApi\\MyWebApi\\wwwroot\\Update.js",
+              "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\Update.js",
+              "ToolTip": "E:\\\u05D9\u05D3\\API\\MyWebApi\\MyWebApi\\wwwroot\\Update.js",
+              "RelativeToolTip": "MyWebApi\\wwwroot\\Update.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-11-03T15:11:25.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyWebApi",
+              "DocumentMoniker": "E:\\\u05D9\u05D3\\API\\MyWebApi\\MyWebApi\\MyWebApi.csproj",
+              "RelativeDocumentMoniker": "MyWebApi\\MyWebApi.csproj",
+              "ToolTip": "E:\\\u05D9\u05D3\\API\\MyWebApi\\MyWebApi\\MyWebApi.csproj",
+              "RelativeToolTip": "MyWebApi\\MyWebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-03T14:24:43.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Servieces",
+              "DocumentMoniker": "E:\\\u05D9\u05D3\\API\\MyWebApi\\Servieces\\Servieces.csproj",
+              "RelativeDocumentMoniker": "Servieces\\Servieces.csproj",
+              "ToolTip": "E:\\\u05D9\u05D3\\API\\MyWebApi\\Servieces\\Servieces.csproj",
+              "RelativeToolTip": "Servieces\\Servieces.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-03T13:56:56.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\\u05D9\u05D3\\API\\MyWebApi\\MyWebApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "MyWebApi\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\\u05D9\u05D3\\API\\MyWebApi\\MyWebApi\\Controllers\\UsersController.cs*",
+              "RelativeToolTip": "MyWebApi\\Controllers\\UsersController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T13:34:31.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Models",
+              "DocumentMoniker": "E:\\\u05D9\u05D3\\API\\MyWebApi\\Models\\Models.csproj",
+              "RelativeDocumentMoniker": "Models\\Models.csproj",
+              "ToolTip": "E:\\\u05D9\u05D3\\API\\MyWebApi\\Models\\Models.csproj",
+              "RelativeToolTip": "Models\\Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-03T13:31:58.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\\u05D9\u05D3\\API\\MyWebApi\\Repositorys\\Class1.cs",
+              "RelativeDocumentMoniker": "Repositorys\\Class1.cs",
+              "ToolTip": "E:\\\u05D9\u05D3\\API\\MyWebApi\\Repositorys\\Class1.cs",
+              "RelativeToolTip": "Repositorys\\Class1.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAcwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T13:22:09.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\\u05D9\u05D3\\API\\MyWebApi\\Servieces\\Class1.cs",
+              "RelativeDocumentMoniker": "Servieces\\Class1.cs",
+              "ToolTip": "E:\\\u05D9\u05D3\\API\\MyWebApi\\Servieces\\Class1.cs",
+              "RelativeToolTip": "Servieces\\Class1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowC0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T13:10:29.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\\u05D9\u05D3\\API\\MyWebApi\\Models\\Class1.cs",
+              "RelativeDocumentMoniker": "Models\\Class1.cs",
+              "ToolTip": "E:\\\u05D9\u05D3\\API\\MyWebApi\\Models\\Class1.cs",
+              "RelativeToolTip": "Models\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T13:07:12.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "home.js",
               "DocumentMoniker": "E:\\\u05D9\u05D3\\API\\MyWebApi\\MyWebApi\\wwwroot\\home.js",
               "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\home.js",
               "ToolTip": "E:\\\u05D9\u05D3\\API\\MyWebApi\\MyWebApi\\wwwroot\\home.js",
               "RelativeToolTip": "MyWebApi\\wwwroot\\home.js",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAEMAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2026-10-29T12:28:18.819Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "home.html",
               "DocumentMoniker": "E:\\\u05D9\u05D3\\API\\MyWebApi\\MyWebApi\\wwwroot\\home.html",
               "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\home.html",
               "ToolTip": "E:\\\u05D9\u05D3\\API\\MyWebApi\\MyWebApi\\wwwroot\\home.html",
               "RelativeToolTip": "MyWebApi\\wwwroot\\home.html",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-10-29T12:30:48.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "passwordsController.cs",
               "DocumentMoniker": "E:\\\u05D9\u05D3\\API\\MyWebApi\\MyWebApi\\Controllers\\passwordsController.cs",
               "RelativeDocumentMoniker": "MyWebApi\\Controllers\\passwordsController.cs",
               "ToolTip": "E:\\\u05D9\u05D3\\API\\MyWebApi\\MyWebApi\\Controllers\\passwordsController.cs",
               "RelativeToolTip": "MyWebApi\\Controllers\\passwordsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-29T12:11:24.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "UpdateDetails.html",
               "DocumentMoniker": "E:\\\u05D9\u05D3\\API\\MyWebApi\\MyWebApi\\wwwroot\\UpdateDetails.html",
               "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\UpdateDetails.html",

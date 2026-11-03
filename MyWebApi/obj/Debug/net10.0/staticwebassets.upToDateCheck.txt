@@ -1,8 +1,8 @@
+E:\יד\API\MyWebApi\MyWebApi\wwwroot\Update.js
+E:\יד\API\MyWebApi\MyWebApi\wwwroot\home.html
+E:\יד\API\MyWebApi\MyWebApi\wwwroot\home.js
+E:\יד\API\MyWebApi\MyWebApi\wwwroot\UpdateDetails.html
+wwwroot\Update.js
 wwwroot\UpdateDetails.html
 wwwroot\home.html
 wwwroot\home.js
-wwwroot\Update.js
-E:\יד\API\MyWebApi\MyWebApi\wwwroot\Update.js
-E:\יד\API\MyWebApi\MyWebApi\wwwroot\home.js
-E:\יד\API\MyWebApi\MyWebApi\wwwroot\home.html
-E:\יד\API\MyWebApi\MyWebApi\wwwroot\UpdateDetails.html

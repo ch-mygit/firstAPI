@@ -1,0 +1,16 @@
+E:\יד\API\MyWebApi\Repositorys\bin\Debug\net10.0\Repositorys.deps.json
+E:\יד\API\MyWebApi\Repositorys\bin\Debug\net10.0\Repositorys.dll
+E:\יד\API\MyWebApi\Repositorys\bin\Debug\net10.0\Repositorys.pdb
+E:\יד\API\MyWebApi\Repositorys\bin\Debug\net10.0\Models.dll
+E:\יד\API\MyWebApi\Repositorys\bin\Debug\net10.0\Models.pdb
+E:\יד\API\MyWebApi\Repositorys\obj\Debug\net10.0\Repositorys.csproj.AssemblyReference.cache
+E:\יד\API\MyWebApi\Repositorys\obj\Debug\net10.0\Repositorys.GeneratedMSBuildEditorConfig.editorconfig
+E:\יד\API\MyWebApi\Repositorys\obj\Debug\net10.0\Repositorys.AssemblyInfoInputs.cache
+E:\יד\API\MyWebApi\Repositorys\obj\Debug\net10.0\Repositorys.AssemblyInfo.cs
+E:\יד\API\MyWebApi\Repositorys\obj\Debug\net10.0\Repositorys.csproj.CoreCompileInputs.cache
+E:\יד\API\MyWebApi\Repositorys\obj\Debug\net10.0\Repositorys.sourcelink.json
+E:\יד\API\MyWebApi\Repositorys\obj\Debug\net10.0\Reposito.19D10BBC.Up2Date
+E:\יד\API\MyWebApi\Repositorys\obj\Debug\net10.0\Repositorys.dll
+E:\יד\API\MyWebApi\Repositorys\obj\Debug\net10.0\refint\Repositorys.dll
+E:\יד\API\MyWebApi\Repositorys\obj\Debug\net10.0\Repositorys.pdb
+E:\יד\API\MyWebApi\Repositorys\obj\Debug\net10.0\ref\Repositorys.dll

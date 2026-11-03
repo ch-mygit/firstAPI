@@ -140,13 +140,13 @@
     "Parameters": [
       {
         "Name": "user",
-        "Type": "MyWebApi.User",
+        "Type": "Models.Model\u002BUser",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "MyWebApi.User",
+        "Type": "Models.Model\u002BUser",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -197,7 +197,7 @@
       },
       {
         "Name": "user",
-        "Type": "MyWebApi.User",
+        "Type": "Models.Model\u002BUser",
         "IsRequired": true
       }
     ],
@@ -241,13 +241,13 @@
     "Parameters": [
       {
         "Name": "loginUser",
-        "Type": "MyWebApi.LoginUser",
+        "Type": "Models.Model\u002BLoginUser",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "MyWebApi.User",
+        "Type": "Models.Model\u002BUser",
         "MediaTypes": [
           "text/plain",
           "application/json",

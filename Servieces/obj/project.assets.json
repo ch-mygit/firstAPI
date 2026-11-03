@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    "net10.0": {
+      "Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Models.dll": {}
+        }
+      },
+      "Repositorys/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repositorys.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repositorys.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Models/1.0.0": {
+      "type": "project",
+      "path": "../Models/Models.csproj",
+      "msbuildProject": "../Models/Models.csproj"
+    },
+    "Repositorys/1.0.0": {
+      "type": "project",
+      "path": "../Repositorys/Repositorys.csproj",
+      "msbuildProject": "../Repositorys/Repositorys.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net10.0": [
+      "Models >= 1.0.0",
+      "Repositorys >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Chavi\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\יד\\API\\MyWebApi\\Servieces\\Servieces.csproj",
+      "projectName": "Servieces",
+      "projectPath": "D:\\יד\\API\\MyWebApi\\Servieces\\Servieces.csproj",
+      "packagesPath": "C:\\Users\\Chavi\\.nuget\\packages\\",
+      "outputPath": "D:\\יד\\API\\MyWebApi\\Servieces\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Chavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net10.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net10.0": {
+          "targetAlias": "net10.0",
+          "projectReferences": {
+            "D:\\יד\\API\\MyWebApi\\Models\\Models.csproj": {
+              "projectPath": "D:\\יד\\API\\MyWebApi\\Models\\Models.csproj"
+            },
+            "D:\\יד\\API\\MyWebApi\\Repositorys\\Repositorys.csproj": {
+              "projectPath": "D:\\יד\\API\\MyWebApi\\Repositorys\\Repositorys.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net10.0": {
+        "targetAlias": "net10.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

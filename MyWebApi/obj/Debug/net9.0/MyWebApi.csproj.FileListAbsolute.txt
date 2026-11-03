@@ -100,8 +100,8 @@ D:\יד\API\MyWebApi\MyWebApi\obj\Debug\net9.0\MyWebApi.csproj.Up2Date
 E:\יד\API\MyWebApi\MyWebApi\bin\Debug\net9.0\zxcvbn-core.dll
 E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net9.0\MyWebApi.csproj.AssemblyReference.cache
 E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net9.0\MyWebApi.sourcelink.json
-E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net9.0\compressed\makr6zempj-{0}-01mqdvsbdv-01mqdvsbdv.gz
-E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net9.0\compressed\os6x9swu2h-{0}-rw2zbxdiki-rw2zbxdiki.gz
 E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net9.0\compressed\g8z7ygyxqy-{0}-2evipvh2nd-2evipvh2nd.gz
 E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net9.0\compressed\rtj83laxlg-{0}-v5ygdds9n9-v5ygdds9n9.gz
 E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net9.0\MyWebApi.csproj.Up2Date
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net9.0\compressed\os6x9swu2h-{0}-bojlqn41tu-bojlqn41tu.gz
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net9.0\compressed\makr6zempj-{0}-rfx4hkldub-rfx4hkldub.gz

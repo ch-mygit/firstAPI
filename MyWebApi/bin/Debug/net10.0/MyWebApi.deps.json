@@ -8,6 +8,8 @@
     ".NETCoreApp,Version=v10.0": {
       "MyWebApi/1.0.0": {
         "dependencies": {
+          "Models": "1.0.0",
+          "Servieces": "1.0.0",
           "zxcvbn-core": "8.0.0-beta0002"
         },
         "runtime": {
@@ -19,6 +21,37 @@
           "lib/netstandard2.0/zxcvbn-core.dll": {
             "assemblyVersion": "8.0.0.0",
             "fileVersion": "8.0.0.0"
+          }
+        }
+      },
+      "Models/1.0.0": {
+        "runtime": {
+          "Models.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Repositorys/1.0.0": {
+        "dependencies": {
+          "Models": "1.0.0"
+        },
+        "runtime": {
+          "Repositorys.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Servieces/1.0.0": {
+        "dependencies": {
+          "Models": "1.0.0",
+          "Repositorys": "1.0.0"
+        },
+        "runtime": {
+          "Servieces.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       }
@@ -36,6 +69,21 @@
       "sha512": "sha512-3l1tIg+glhOo02hjxjyk1SMEvbrKV4K2znGMePAg05HEEEhxS8nWBxSMUz/o69+FpjsgL0G70IWgO1gKPjdQfg==",
       "path": "zxcvbn-core/8.0.0-beta0002",
       "hashPath": "zxcvbn-core.8.0.0-beta0002.nupkg.sha512"
+    },
+    "Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Repositorys/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Servieces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
