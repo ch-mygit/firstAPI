@@ -6,6 +6,7 @@ using static Models.Model;
 
 namespace Repositorys
 {
+    //In C#, class names are written in PascalCase: Repository
     public class repository
     {
 

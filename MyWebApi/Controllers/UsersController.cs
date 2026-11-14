@@ -19,6 +19,7 @@ namespace MyWebApi.Controllers
 
         // GET api/<UserController>/5
         [HttpGet("{id}")]
+        //Why isn't GET by id implemented? It should read the file and return the user with this id (or NoContent() if there is none)
         public string Get(int id)
         {
             return "value";
@@ -28,6 +29,8 @@ namespace MyWebApi.Controllers
         [HttpPost]
         public ActionResult<User> Post([FromBody] User user)
         {
+            //The assignment asks to read and write the data file only in the repositories project: the service calls the repository
+            //Full paths like E:\... only work on this computer: use a path relative to the project
             int numberOfUsers = System.IO.File.ReadLines("E:\\יד\\API\\MyWebApi\\MyWebApi\\text.txt").Count();
             user.userId = numberOfUsers + 1;
             string userJson = JsonSerializer.Serialize(user);
@@ -50,6 +53,7 @@ namespace MyWebApi.Controllers
                     loginUser.password)
                         return user;
                 }
+                //The assignment asks a wrong password to return 204: what does NotFound() return here, and should it be NoContent()?
                 return NotFound();
             }
         }
@@ -57,7 +61,8 @@ namespace MyWebApi.Controllers
 
             // PUT api/<UserController>/5
             [HttpPut("{id}")]
-            public void Put(int id, [FromBody] User user)
+            //The assignment asks PUT to return Ok(): change void to IActionResult and return Ok() at the end
+        public void Put(int id, [FromBody] User user)
             {
                 string textToReplace = string.Empty;
                 using (StreamReader reader =
