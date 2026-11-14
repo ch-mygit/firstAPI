@@ -2,6 +2,7 @@
 using Repositorys;
 namespace Servieces
 {
+    //In C#, class names are written in PascalCase: Services
     public class servieces
     {
         repository repo=new repository();
