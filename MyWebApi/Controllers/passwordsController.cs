@@ -8,6 +8,7 @@ namespace MyWebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    //In C#, class names are written in PascalCase: PasswordsController. Rename the class and its file to match
     public class passwordsController : ControllerBase
     {
         // GET: api/<passwordsController>

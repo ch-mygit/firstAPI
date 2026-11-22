@@ -53,7 +53,9 @@ async function getResposeLogin() {
         alert(e.message)
     }
 }
+//In JavaScript, function names are written in camelCase: checkPassword
 async function CheckPassword() {
+    //Is 'pass' declared anywhere? Declare it before you use it.
     pass = document.querySelector(".password").value;
     const responsePost = await fetch('API/passwords', {
         method: 'POST',
