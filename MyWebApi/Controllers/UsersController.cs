@@ -19,6 +19,7 @@ namespace MyWebApi.Controllers
 
         // GET api/<UserController>/5
         [HttpGet("{id}")]
+        //The assignment asks GET by id to return the user with this id, read from the data file (or NoContent() when there is none). What does this method return now?
         public string Get(int id)
         {
             return "value";
@@ -26,6 +27,7 @@ namespace MyWebApi.Controllers
 
         // POST api/<UserController>
         [HttpPost]
+        //The assignment asks a weak password (score below 3) to get a 400 status and not be saved: check the password strength with the password service before the user is saved. Where is the password service used here?
         public ActionResult<User> Post([FromBody] User user)
         {
             int numberOfUsers = System.IO.File.ReadLines("E:\\יד\\API\\MyWebApi\\MyWebApi\\text.txt").Count();
@@ -36,6 +38,8 @@ namespace MyWebApi.Controllers
             return CreatedAtAction(nameof(Get), new { id = user.userId },
             user);
         }
+        //The assignment asks to read and write the data file only in the repositories project: the controller calls the repository
+        //The data file path has a drive letter (E:\\...): use a path relative to the project instead
         [HttpPost("login")]
         public ActionResult<User> PostLogin([FromBody] LoginUser loginUser)
         {
@@ -50,6 +54,7 @@ namespace MyWebApi.Controllers
                     loginUser.password)
                         return user;
                 }
+                //The assignment asks a login with a wrong password to return NoContent() (204): what does NotFound() return here?
                 return NotFound();
             }
         }
@@ -57,6 +62,8 @@ namespace MyWebApi.Controllers
 
             // PUT api/<UserController>/5
             [HttpPut("{id}")]
+            //The assignment asks PUT to return Ok(): change void to IActionResult and return Ok() at the end
+            //The assignment asks a weak password (score below 3) to get a 400 status and not update the user: check the password strength with the password service before the update. Where is it used here?
             public void Put(int id, [FromBody] User user)
             {
                 string textToReplace = string.Empty;
